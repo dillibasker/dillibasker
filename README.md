@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 its me Dilli Basker</h1>
 <h3 align="center">Full Stack Developer | AI Developer</h3>
 
-- 🔭 I’m currently working on *Full Stack Web Development and ML*
+- 🔭 I’m currently working on *Full Stack Web3 Development and ML*
 - 🌱 I’m currently learning *Blockchain*
 - 👀 I’m interested in *Full stack web3 development, AI development*
 - 💞️ I’m looking to collaborate on *AI-driven projects, Full Stack Development*
