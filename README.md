@@ -102,8 +102,6 @@
       </a>
       <br>Git
     </td>
-  </tr>
-   <tr>
     <td align="center" width="96">
       <a href="#vmmuthu31">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
@@ -122,6 +120,8 @@
       </a>
       <br>Solidity
     </td>
+  </tr>
+   <tr>
     <td align="center" width="96"> 
       <a href="#vmmuthu31" >
         <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next JS" />
