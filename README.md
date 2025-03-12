@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dilli Basker</h1>
 <h3 align="center">Passionate for innovation, A boy trying to be Plus Ultra!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dillibasker&label=Profile%20views&color=0e75b6&style=flat" alt="thirumurugan7" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dillibasker&label=Profile%20views&color=0e75b6&style=flat" alt="dillibasker" /> </p>
 <a href="#dillibasker-title">
   <img src="https://github-readme-stats.vercel.app/api?username=dillibasker&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="dillibasker" align="right" />
 </a>
@@ -13,7 +13,7 @@
 - :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/dilli-basker-8aaa262ba)
-- 📫 How to reach me **thirumurugan82003@gmail.com.com**
+- 📫 How to reach me **dillibasker1@gmail.com.com**
 - :bird: &nbsp;Let's talk more in [Twitter](https://x.com/DilliBasker?t=I_K18H9JozwV46AM_VF8Gw&s=09)
 
 
