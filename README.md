@@ -127,7 +127,7 @@
     </td>
     <td align="center" width="96">
       <a href="#dillibasker">
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
+        <img  src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="48" height="48" alt="Solidity" />
       </a>
       <br>Solidity
     </td>
