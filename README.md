@@ -93,6 +93,12 @@
       </a>
       <br>MySQL
     </td>
+    <td align="center" width="96"> 
+      <a href="#dillibasker" >
+       <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
     <td align="center" width="96">
       <a href="#dillibasker" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" width="48" height="48" alt="Linux" />
