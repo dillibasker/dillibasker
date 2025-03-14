@@ -87,6 +87,12 @@
       </a>
       <br>C Lang
     </td>
+    <td align="center" width="96"> 
+      <a href="#dillibasker" >
+       <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1280px-MySQL_logo.svg.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
     <td align="center" width="96">
       <a href="#dillibasker" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" width="48" height="48" alt="Linux" />
