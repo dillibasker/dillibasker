@@ -42,7 +42,7 @@
       </a>
       <br>Django
     </td>
-    td align="center" width="96">
+    <td align="center" width="96">
       <a href="#dillibasker">
         <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
       </a>
