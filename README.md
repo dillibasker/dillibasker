@@ -117,20 +117,6 @@
       </a>
       <br>Git
     </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-      <a href="#dillibasker">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#dillibasker">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
     <td align="center" width="96">
       <a href="#dillibasker">
         <img  src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="48" height="48" alt="Solidity" />
@@ -149,6 +135,21 @@
       </a>
       <br>G Cloud
     </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+      <a href="#dillibasker">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
+      </a>
+      <br>TailWind
+    </td>
+    <td align="center" width="96">
+      <a href="#dillibasker">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    
   </tr>
     
 </table>
