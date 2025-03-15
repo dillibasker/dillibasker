@@ -111,23 +111,11 @@
       </a>
       <br>Firebase
     </td>
-    <td align="center"  width="96">
-      <a href="#dillibasker">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
     <td align="center" width="96">
       <a href="#dillibasker" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#dillibasker" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
     </td>
   </tr>
    <tr>
@@ -148,12 +136,6 @@
         <img  src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="48" height="48" alt="Solidity" />
       </a>
       <br>Solidity
-    </td>
-     <td align="center" width="96"> 
-      <a href="#dillibasker" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
     </td>
           <td align="center" width="96"> 
       <a href="#dillibasker" >
