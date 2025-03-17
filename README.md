@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Dillibasker</h1>
+<h1 align="center">Hi 👋, I'm Dilliker</h1>
 <h3 align="center">Passionate for innovation, A boy trying to be Plus Ultra!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dillibasker&label=Profile%20views&color=0e75b6&style=flat" alt="dillibasker" /> </p>
