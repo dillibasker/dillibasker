@@ -3,10 +3,11 @@
 <h1 align="center">Hi 👋, I' Dilli Basker</h1>
 <h3 align="center">Passionate for innovation, A boy trying to be Plus Ultra!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dillibaser&label=Profile%20views&color=0e75b6&style=flat" alt="dillibaser" /> </p>
-<a href="#dillibaser-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=dillibaser&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dillibasker&label=Profile%20views&color=0e75b6&style=flat" alt="dilibasker" /> </p>
+<a href="#dillibasker-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=dillibasker&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
 </a>
+
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"25
 
 - :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
