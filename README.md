@@ -3,11 +3,10 @@
 <h1 align="center">Hi 👋, I' Dilli Basker</h1>
 <h3 align="center">Passionate for innovation, A boy trying to be Plus Ultra!!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dillibasker&label=Profile%20views&color=0e75b6&style=flat" alt="dillibasker" /> </p>
-<a href="#dillibasker-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=dillibasker&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="dillibasker" align="right" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dillibaser&label=Profile%20views&color=0e75b6&style=flat" alt="dillibaser" /> </p>
+<a href="#dillibaser-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=dillibaser&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
 </a>
-
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"25
 
 - :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
@@ -18,6 +17,22 @@
 
 
 <br>
+### 🎮 **Fun Fact**
+Did you know? I love solving coding challenges and can solve problems faster than a compiler can compile! 😄
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="500" height="300"/>
+</div>
+
+### 🌐 **Connect with Me**
+<div align="center">
+  <a href="http://instagram.com/jg_official_2005" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="[https://www.linkedin.com/in/jai-ganesh-h-588a48321](https://www.linkedin.com/in/dilli-basker-8aaa262ba)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 <h2 align="left" id=""thirumurugan7>Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
@@ -154,23 +169,16 @@
     
 </table>
 
-
-<table align="center">
-  <tr>
-    <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dillibasker&show_icons=true&locale=en&layout=compact" alt="dillibasker" /></p>
-</td>
-<tr>
-    <td align="center" width="1000">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dillibasker&show_icons=true&locale=en" alt="dillibasker" /></p>
-</td>
-<tr>
-    <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dillibasker&" alt="dillibasker" /></p>
-</td>
-<tr>
-    <td align="center" width="1000">
-</table>
+ 
+### 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiganesh2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108" alt="GitHub Streak Stats" />
+</div>
 
 
 
