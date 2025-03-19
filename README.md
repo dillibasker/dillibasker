@@ -27,7 +27,7 @@ Did you know? I love solving coding challenges and can solve problems faster tha
 
 ### 🌐 **Connect with Me**
 <div align="center">
-  <a href="http://instagram.com/jg_official_2005" target="_blank">
+  <a href="https://www.instagram.com/pulsar_1488" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="[https://www.linkedin.com/in/jai-ganesh-h-588a48321](https://www.linkedin.com/in/dilli-basker-8aaa262ba)" target="_blank">
