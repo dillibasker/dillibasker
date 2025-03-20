@@ -8,7 +8,6 @@
 <p align="center">
   <picture>
     <source srcset="https://komarev.com/ghpvc/?username=dillibasker&label=Profile%20views&color=ffffff&style=flat" media="(prefers-color-scheme: dark)">
-    <img src="https://komarev.com/ghpvc/?username=dillibasker&label=Profile%20views&color=0e75b6&style=flat" alt="dillibasker">
   </picture>
 </p>
 
