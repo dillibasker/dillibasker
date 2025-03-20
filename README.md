@@ -8,8 +8,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dillibasker&label=Profile%20views&color=0e75b6&style=flat" alt="dilibasker" /> </p>
 
-<a href="#dillibasker-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=dillibasker&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
+<a href="#dillibasker-tittle">
+    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=dillibasker&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" align="right"/>
 </a>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"25
