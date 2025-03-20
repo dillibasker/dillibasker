@@ -82,9 +82,13 @@ Did you know? I love solving coding challenges and can solve problems faster tha
       </a>
       <br>Linux
     </td>
-    
+    <td align="center" width="96">
+      <a href="#wordpress">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="48" height="48" alt="WordPress" />
+      </a>
+      <br>WordPress
+    </td>    
   </tr>
-  
   <tr>
     <td align="center" width="96">
       <a href="#dillibasker">
@@ -92,7 +96,7 @@ Did you know? I love solving coding challenges and can solve problems faster tha
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
+       <td align="center" width="96">
       <a href="#dillibasker">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="48" height="48" alt="Node JS" />
       </a>
@@ -171,7 +175,6 @@ Did you know? I love solving coding challenges and can solve problems faster tha
     
 </table>
 
- 
 ### 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dillibasker&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -181,6 +184,3 @@ Did you know? I love solving coding challenges and can solve problems faster tha
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dillibasker" alt="GitHub Streak Stats" />
 </div>
-
-
-
