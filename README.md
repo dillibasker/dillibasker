@@ -81,13 +81,7 @@ Did you know? I love solving coding challenges and can solve problems faster tha
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#wordpress">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>    
+    </td> 
   </tr>
   <tr>
     <td align="center" width="96">
@@ -126,6 +120,12 @@ Did you know? I love solving coding challenges and can solve problems faster tha
       </a>
       <br>Flutter
     </td>  
+    <td align="center" width="96">
+      <a href="#wordpress">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="48" height="48" alt="WordPress" />
+      </a>
+      <br>WordPress
+    </td>   
   </tr>
    <tr>
       <td align="center" width="96">
