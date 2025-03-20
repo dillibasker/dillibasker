@@ -123,13 +123,13 @@ Did you know? I love solving coding challenges and can solve problems faster tha
       <br>Flutter
     </td>  
   </tr>
-   <td align="center" width="96">
+   <tr>
+      <td align="center" width="96">
       <a href="#dillibasker">
         <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
-   <tr>
     <td align="center" width="96">
       <a href="#dillibasker" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
