@@ -20,7 +20,6 @@
 - 📫 How to reach me **dillibasker1@gmail.com.com**
 - :bird: &nbsp;Let's talk more in [Twitter](https://x.com/DilliBasker?t=I_K18H9JozwV46AM_VF8Gw&s=09)
 
-
 <br>
 ### 🎮 **Fun Fact**
 Did you know? I love solving coding challenges and can solve problems faster than a compiler can compile! 😄
@@ -49,7 +48,6 @@ Did you know? I love solving coding challenges and can solve problems faster tha
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </td>
     <td align="center" width="96">
       <a href="#dillibasker">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
@@ -174,9 +172,7 @@ Did you know? I love solving coding challenges and can solve problems faster tha
       </a>
       <br>Figma
     </td>
-    
   </tr>
-    
 </table>
 
 ### 📊 **GitHub Stats**
