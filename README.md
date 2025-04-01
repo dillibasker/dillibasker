@@ -175,12 +175,14 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   </tr>
 </table>
 
-### 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dillibasker&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=dillibasker&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dillibasker" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dillibasker&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
+<div align="center">
+    <a href="https://github.com/dillibasker/dillibasker"><img alt="dillibasker's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dillibasker&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  </div>
