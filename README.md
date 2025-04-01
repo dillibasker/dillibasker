@@ -17,7 +17,7 @@
 - :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/dilli-basker-8aaa262ba)
-- 📫 How to reach me **dillibasker1@gmail.com.com**
+- 📫 How to reach me **dillibasker1@gmail.com**
 - :bird: &nbsp;Let's talk more in [Twitter](https://x.com/DilliBasker?t=I_K18H9JozwV46AM_VF8Gw&s=09)
 - 
 <br>
