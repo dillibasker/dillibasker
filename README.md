@@ -44,7 +44,7 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   </a>
 </div>
 
-<h2 align="left" id=""thirumurugan7>Favorite Tech</h2>
+<h2 align="left" id="dillibasker">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
 
 <table align="center">
