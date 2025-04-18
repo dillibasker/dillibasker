@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=200&section=header&text=Dilli%20Basker%20H&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=200&section=header&text=Dilli%20Basker%20M&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
@@ -32,8 +32,8 @@
         <li>🎓 Pursuing <b>B.E in Computer Science</b> at JEC'27</li>
         <li>💡 Passionate about <b>Innovation</b>, <b>AI</b> and <b>Web 3.0</b></li>
         <li>💻 Full-stack developer with experience in Web & Mobile</li>
-        <li>🌐 Currently exploring Blockchain technology and Smart Contracts</li>
-        <li>📫 Reach me at: <b>jaiganeshh574@gmail.com</b></li>
+        <li>🌐 Currently exploring Blockchain technology and AI</li>
+        <li>📫 Reach me at: <b>dillibasker1@gmail.com</b></li>
         <li>👨‍💻 "If you copy my code then <b>YOU ARE MY FRIEND!</b>"</li>
         <li>💪 "<b>MEN ARE BRAVE!</b>"</li>
       </ul>
