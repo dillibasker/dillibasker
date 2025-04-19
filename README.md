@@ -29,7 +29,7 @@
     <td valign="top" width="60%">
       <h3>💫 Who I Am</h3>
       <ul>
-        <li>🎓 Pursuing <b>B.E in Computer Science</b> at JEC'27</li>
+        <li>🎓 Pursuing <b>B.E in Comter Science</b> at JEC'27</li>
         <li>💡 Passionate about <b>Innovation</b>, <b>AI</b> and <b>Web 3.0</b></li>
         <li>💻 Full-stack developer with experience in Web & Mobile</li>
         <li>🌐 Currently exploring Blockchain technology and AI</li>
