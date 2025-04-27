@@ -1,4 +1,4 @@
-<div align="c
+<div align="ce
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=200&section=header&text=Dilli%20Basker%20M&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
