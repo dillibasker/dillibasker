@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **DILLI BASKER M**, a passionate developer who thrives on solving real-world problems using technology. Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
+I'm **DILLI BASKER M**, a passionate developer who are thrives on solving real-world problems using technology. Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 - 🌐 Full-Stack Web & Mobile Development  
 - 🤖 Artificial Intelligence & Machine Learning  
