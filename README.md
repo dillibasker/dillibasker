@@ -24,7 +24,7 @@ I'm **DILLI BASKER M**, a passionate developer who are thrives on solving real-w
 
 - 🌐 Full-Stack Web & Mobile Development  
 - 🤖 Artificial Intelligence & Machine Learning  
-- 🛠️ Blockchain Exploration (Solidity + Web3)  
+- 🛠️ Blockchain Exploration
 - 🧠 Building, learning & contributing to open-source projects  
 - 🏆 Finalist in **Smart India Hackathon 2024**
 
