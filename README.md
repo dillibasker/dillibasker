@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<p align="cer">
+<p align="certer">
   <a href="mailto:dillibasker1@gmail.com"><img src="https://img.shields.io/badge/Email-1e90ff?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dilli-basker-8aaa262ba"><img src="https://img.shields.io/badge/LinkedIn-1e90ff?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="http://instagram.com/jg_official_2005"><img src="https://img.shields.io/badge/Instagram-1e90ff?style=flat&logo=instagram&logoColor=white" /></a>
