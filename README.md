@@ -30,7 +30,7 @@ I'm **DILLI BASKER M**, a passionate developer who are thrives on solving real-w
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 <table> <tr> <th>💻 Languages</th> <th>🧠 AI</th> <th>🌐 Frontend</th> <th>🔙 Backend & DB</th> <th>⚙️ Tools</th> </tr> <tr> <td> <img src="https://skillicons.dev/icons?i=python,js,dart,solidity,kotlin,c,cpp" /> </td> <td> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br /> <img src="https://img.shields.io/badge/Numpy-1e90ff?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-1e90ff?style=flat&logo=pandas&logoColor=white" /><br /> <img src="https://img.shields.io/badge/Scikit--learn-1e90ff?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-1e90ff?style=flat&logo=opencv&logoColor=white" /> </td> <td> <img src="https://skillicons.dev/icons?i=react,flutter,html,css" /> </td> <td> <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql" /> </td> <td> <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,vscode" /> </td> </tr> </table>
 
 ---
