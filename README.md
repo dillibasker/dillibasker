@@ -37,7 +37,7 @@ I'm **DILLI BASKER M**, a passionate developer who are thrives on solving real-w
 
 ## 🔗 GitHub Analysis
 
-<div align="center">
+<div align="ceer">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dillibasker&theme=github_dark&hide_border=true" width="95%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dillibasker&theme=github_dark&hide_border=true" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dillibasker&theme=github_dark&hide_border=true" />
