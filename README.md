@@ -87,12 +87,12 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 ## 🔗 GitHub Analysis
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dillibaske&theme=github_dark&hide_border=true" width="75%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dillibaske&theme=github_dark&hide_border=true" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dillibaske&theme=github_dark&hide_border=true" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dillibaske&theme=github_dark&hide_border=true" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dillibaske&theme=github_dark&hide_border=true" width="35%"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dillibaske&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dillibasker&theme=github_dark&hide_border=true" width="75%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dillibasker&theme=github_dark&hide_border=true" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dillibasker&theme=github_dark&hide_border=true" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dillibasker&theme=github_dark&hide_border=true" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dillibasker&theme=github_dark&hide_border=true" width="35%"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dillibasker&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Top Languages" />
 
 
 
@@ -100,12 +100,12 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dillibaske&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" width="38%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dillibaske&theme=dark&hide_border=true&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakNum=2ea44f&sideNums=2ea44f&dates=c9d1d9" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dillibasker&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" width="38%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dillibasker&theme=dark&hide_border=true&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakNum=2ea44f&sideNums=2ea44f&dates=c9d1d9" width="40%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dillibaske&theme=github-dark&bg_color=0d1117&color=2ea44f&line=2ea44f&point=2ea44f&area=true&hide_border=true&custom_title=Contribution%20Graph" width="75%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dillibasker&theme=github-dark&bg_color=0d1117&color=2ea44f&line=2ea44f&point=2ea44f&area=true&hide_border=true&custom_title=Contribution%20Graph" width="75%" />
 </div>
 
 ---
@@ -129,7 +129,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
   </a>
   
   <!-- Gmail -->
-  <a href="mailto:dillibaske1@gmail.com">
+  <a href="mailto:dillibasker1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Mail-2ea44f?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   
