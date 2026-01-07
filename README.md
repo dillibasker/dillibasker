@@ -73,7 +73,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 ## 🛠️ My Daily Stuffs 
 <!-- 3D Animated Icons -->
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,django,solidity,nodejs,express,mongodb,mysql,docker,git,github,firebase,flutter,dart,vscode,tensorflow,pytorch,opencv,nextjs,linux,c,cpp,html,css,vite,vercel,netlify,graphql,gcp,sqlite,jenkins,gitlab,bootstrap,tailwind,figma,materialui,ubuntu,bash,flask,postman,blender,threejs,kotlin,webpack,npm,yarn,powershell,prisma,postgresql,sequelize,aws,redux,remix,githubactions,go,windows,stackoverflow,ipfs,anaconda,androidstudio,cs,discord,fastapi,gmail,visualstudio,swift" /> 
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,django,solidity,nodejs,express,mongodb,mysql,docker,git,github,firebase,vscode,tensorflow,pytorch,opencv,nextjs,linux,c,html,css,vite,vercel,netlify,tailwind,figma,ubuntu,postman,webpack,npm,yarn,powershell,aws,remix,githubactions,windows,ipfs,discord,fastapi,gmail,visualstudio" /> 
 </div>
 
 ---
