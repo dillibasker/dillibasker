@@ -42,11 +42,6 @@
 
 ---
 
-<h1 align="center">
-  < Vanakkam Nanba / Nanbi 
-  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
-       alt="🙏" width="40" height="40" /> />
-</h1>
 <div align="center">
 <table>
 <tr>
