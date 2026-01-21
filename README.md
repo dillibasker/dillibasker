@@ -9,7 +9,7 @@
 </div> 
 
 
-<!-- 🌐 Social Links -->
+
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:dillibasker1@gml.com">
