@@ -27,7 +27,7 @@
   </a>
   
   <!-- X (Twitter) -->
-  <a href="https://x.com/Dilli">
+  <a href="https://x.com/DilliBasker?t=I_K18H9JozwV46AM_VF8Gw&s=09">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
 
