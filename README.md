@@ -1,9 +1,18 @@
 <div align="center">
 
-<!-- Beautiful 3D Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=DILLI%20BASKER%20M&fontSize=45&color=0:2ea44f,50:1a7f37,100:0d4d2b&fontColor=ffffff&stroke=2ea44f&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=💻%20Full-Stack%20Developer%20|%20🤖%20AI%20Enthusiast%20|%20⛓️%20Blockchain%20Explorer&descAlignY=60&descSize=16" width="100%"/>
+<!-- Beautiful 3D Animated Header with Smaller Name -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=DILLI%20BASKER%20M&fontSize=30&color=0:667eea,50:764ba2,100:f093fb&fontColor=ffffff&stroke=667eea&strokeWidth=2&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 </div>
+
+<!-- Typing Animation -->
+<div align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=40&lines=Software+Engineer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+To+Code;Blockchain+Learner;Open+Source+Contributor;Code+For+Fun" alt="Typing SVG" /> 
+  </a> 
+</div>
+
+<br>
 
 <!-- Animated Profile Section with Photo -->
 <div align="center">
@@ -12,9 +21,9 @@
   <table border="0" align="center">
     <tr border="0">
       <td width="40%" align="center">
-        <img src="https://github.com/dillibasker.png" width="200px" style="border-radius: 50%; border: 4px solid #2ea44f; box-shadow: 0 0 20px #2ea44f;"/>
+        <img src="https://github.com/dillibasker.png" width="200px" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 0 20px #667eea;"/>
         <br><br>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&multiline=true&repeat=true&width=350&height=80&lines=%F0%9F%9A%80+Software+Engineer;%F0%9F%8C%90+Full-Stack+Developer;%F0%9F%A4%96+AI%2FML+Enthusiast;%E2%9B%93+Blockchain+Explorer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=350&height=80&lines=%F0%9F%9A%80+Software+Engineer;%F0%9F%8C%90+Full-Stack+Developer;%F0%9F%A4%96+AI%2FML+Enthusiast;%E2%9B%93+Blockchain+Explorer" alt="Typing SVG" />
       </td>
       <td width="60%" align="left">
         
