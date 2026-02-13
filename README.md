@@ -8,7 +8,7 @@
 <!-- Typing Animation -->
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=40&lines=Software+Engineer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+To+Code;Blockchain+Learner;Open+Source+Contributor;Code+For+Fun" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=667eea&center=true&vCenter=true&width=500&height=40&lines=Software+Engineer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+To+Code;Generative+AI;Open+Source+Contributor;Code+For+Fun" alt="Typing SVG" /> 
   </a> 
 </div>
 
@@ -34,7 +34,7 @@ const DilliBasker = {
     location: "India 🇮🇳",
     education: "B.E. CS @ JEC '27",
     currentFocus: "AI-Powered Apps",
-    learning: ["Web3", "Cloud", "Advanced ML"],
+    learning: ["Generative AI", "Cloud", "Advanced ML"],
     
     techStack: {
         frontend: ["React", "Next.js", "TypeScript"],
