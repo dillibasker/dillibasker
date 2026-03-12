@@ -97,11 +97,11 @@ const DilliBasker = {
 
 ## 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dillibasker&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2" width="90%"/>
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dillibasker&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2"/>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 📊 GitHub Stats
 
