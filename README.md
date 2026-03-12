@@ -16,7 +16,7 @@
 
 <!-- Animated Profile Section  Photo -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://github.com/dillibasker.png?size=200" width="200"/>
   
   <table border="0" align="center">
     <tr border="0">
