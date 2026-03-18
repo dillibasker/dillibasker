@@ -31,20 +31,75 @@
 
 ```javascript
 const DilliBasker = {
-    location: "India 🇮🇳",
-    education: "B.E. CS @ JEC '27",
-    currentFocus: "AI-Powered Apps",
-    learning: ["Generative AI", "Cloud", "Advanced ML"],
-    
+    name: "M. Dilli Basker",
+    location: "Chennai, India 🇮🇳",
+    education: "B.E. Computer Science @ Jaya Engineering College (2023–2027)",
+    role: "Full-Stack Developer (MERN) + Gen AI Enthusiast",
+
+    currentFocus: [
+        "Generative AI Applications",
+        "MERN Stack Development",
+        "AI-Powered Web Apps"
+    ],
+
+    learning: [
+        "LLMs & RAG (Retrieval-Augmented Generation)",
+        "Prompt Engineering",
+        "System Design Basics",
+        "Cloud (AWS Basics)"
+    ],
+
     techStack: {
-        frontend: ["React", "Next.js", "TypeScript"],
-        backend: ["Node.js", "Django", "FastAPI"],
-        database: ["MongoDB", "MySQL", "Firebase"],
-        ai_ml: ["TensorFlow", "PyTorch", "OpenCV"],
-        blockchain: ["Solidity", "Web3.js", "IPFS"],
+        frontend: [
+            "React.js", "Next.js",
+            "JavaScript", "TypeScript",
+            "Tailwind CSS"
+        ],
+
+        backend: [
+            "Node.js", "Express.js",
+            "REST APIs", "JWT Authentication"
+        ],
+
+        database: [
+            "MongoDB", "Firebase"
+        ],
+
+        genAI: [
+            "OpenAI API / Gemini API",
+            "LangChain",
+            "Vector Databases (FAISS)",
+            "Embeddings",
+            "RAG Pipelines"
+        ],
+
+        blockchain: [
+            "Solidity (Basics)",
+            "Ethereum",
+            "Ethers.js",
+            "IPFS"
+        ],
+
+        tools: [
+            "Git", "GitHub",
+            "Postman", "VS Code",
+            "Figma"
+        ]
     },
-    
-    philosophy: "Code is poetry! 🎨"
+
+    projects: [
+        "AI-Powered Government Scheme Assistant (RAG)",
+        "AI Model Marketplace",
+        "College Attendance & Remark System"
+    ],
+
+    achievements: [
+        "Machine Learning Intern at DRDO 🚀"
+    ],
+
+    philosophy: "Building intelligent systems with AI + clean scalable code ⚡",
+
+    funFact: "From MERN apps to AI agents — I build things that think 🤖"
 };
 ```
 
