@@ -144,12 +144,38 @@ const DilliBasker = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,django,python,mongodb,mysql,firebase,docker,git,vscode,tensorflow,pytorch,solidity,tailwind,aws,linux&perline=9" />
+<h3>🚀 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css,figma&perline=9" />
+
+<h3>⚙️ Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask&perline=9" />
+
+<h3>🗄️ Database</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,redis&perline=9" />
+
+<h3>🤖 Gen AI / ML</h3>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=9" />
+
+<p>
+🧠 Also working with: LLMs, RAG, LangChain, Embeddings, FAISS, Vector DBs
+</p>
+
+<h3>🔗 Blockchain (Basics)</h3>
+<img src="https://skillicons.dev/icons?i=solidity,ethereum&perline=9" />
+
+<p>
+⛓️ Tools: Ethers.js, Web3.js, IPFS
+</p>
+
+<h3>☁️ DevOps & Cloud</h3>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,linux&perline=9" />
+
+<h3>🛠️ Tools & Others</h3>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=9" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ## 🏆 Achievements
 
 <div align="center">
